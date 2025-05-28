@@ -8,9 +8,8 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="io.netty.all" level="project" />
-    <orderEntry type="library" name="lwjgl" level="project" />
+    <orderEntry type="library" name="lwjgl.osgi.bgfx" level="project" />
     <orderEntry type="library" name="lwjgl.osgi.glfw" level="project" />
     <orderEntry type="library" name="lwjgl.opengl" level="project" />
-    <orderEntry type="library" name="lwjgl.vulkan" level="project" />
   </component>
 </module>

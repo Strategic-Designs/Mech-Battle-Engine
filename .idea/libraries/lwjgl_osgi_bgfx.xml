@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lwjgl.osgi.bgfx" type="repository">
+    <properties maven-id="org.lwjgl.osgi:org.lwjgl.bgfx:3.1.6" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs-active/org.lwjgl.bgfx-3.1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs-active/org.lwjgl.lwjgl-3.1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/libs-active/org.lwjgl.bgfx-3.1.6-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs-active/org.lwjgl.lwjgl-3.1.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs-active/org.lwjgl.bgfx-3.1.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs-active/org.lwjgl.lwjgl-3.1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
