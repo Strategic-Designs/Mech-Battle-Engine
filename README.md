@@ -2,7 +2,7 @@
 
 **Project Name:** Mech Battle Engine
 
-**Mech Battle Engine** is a clean-room, from-scratch reimplementation of the *Total Annihilation* (TA) game engine, designed to operate as a modern, 64-bit executable fully compatible with the original game’s data formats. This project enables continued play and preservation of *Total Annihilation* on modern systems, without relying on or distributing any original Cavedog or GT Interactive code or assets.
+**Mech Battle Engine** is a clean-room, from-scratch reimplementation of the *Total Annihilation* (TA) game engine, designed to operate as a modern, 64-bit executable fully compatible with the original game’s data formats. This project enables continued play and preservation of *Total Annihilation* on modern systems, without relying on or distributing any original Cavedog Entertainment code or assets.
 
 ---
 
@@ -31,7 +31,8 @@ This project:
 
 - Users must supply their own legally obtained copy of *Total Annihilation* to use this engine.
 - The engine functions as a compatibility layer for loading and executing original content formats.
-- Developers contributing to this project may analyze the original game’s behavior and disassembled code to understand its functionality; however, they must not copy or transcribe any code, algorithms, or logic verbatim. All implemented game logic must be independently re-created based on documented behavior, testing, and clean-room reconstruction methods.
+- Developers contributing to this project may analyze the original game’s behavior and disassembled code to understand its functionality; however, they must not copy or transcribe any code, internal logic, or proprietary methods verbatim. All game systems must be independently designed and implemented based on documented behavior, testing, and clean-room reconstruction methods.
+
 
 ---
 
