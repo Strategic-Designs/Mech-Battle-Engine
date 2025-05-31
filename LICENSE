@@ -1,4 +1,6 @@
-Copyright (c) 2025 Mech-Battle-Engine by Strategic-Designs
+## License
+
+Copyright (c) 2025 Mech-Battle-Engine by [Thaldren] operating under [Strategic-Designs]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to use, copy, modify, merge, publish, and distribute the Software, including derivative works, subject to the following conditions:
 
@@ -15,3 +17,16 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
    Any violation of this license will result in immediate termination of the rights granted herein. The copyright holder reserves the right to pursue all available legal remedies against unauthorized commercial use.
 
 By using or distributing the Software, you agree to comply with the terms of this license.
+
+## License Exceptions
+
+This project is licensed under the Open Source Non-Commercial License (OSNCL) v1.0, which includes restrictions on commercial use.
+
+However, this project depends on certain third-party libraries that are licensed separately and are **not subject to these commercial use restrictions**. Users must comply with the licenses of these third-party components, which may permit commercial use.
+
+The following third-party libraries are excluded from the commercial use restrictions of this license:
+
+- **SDL (Simple DirectMedia Layer)** — Licensed under the zlib License, which permits commercial use.
+- **SDL_net (Simple DirectMedia Layer Networking)** — Licensed under the zlib License, which permits commercial use.
+
+You may use, distribute, and modify these third-party libraries according to their respective licenses independently of this project's license terms.
