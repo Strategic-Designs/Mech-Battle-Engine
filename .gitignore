@@ -29,4 +29,12 @@ bin/
 .DS_Store
 
 ### Manual libs-active ###
-/libs-active/
+/lib/
+
+### Manual Builds ###
+/src/.vs/
+/src/MechBattleEngine/
+/src/x64/
+/note/
+/src/SDL3.dll
+/ref/
